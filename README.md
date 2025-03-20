@@ -1,32 +1,32 @@
 # Awale
 
-L'application que nous avons développée est un environnement client/serveur conçu pour permettre aux utilisateurs de s'engager dans des parties d'Awalé les uns contre les autres. Cette plateforme offre une expérience interactive et engageante où les joueurs peuvent se connecter, interagir et jouer à ce jeu stratégique traditionnel africain.
+The application we developed is a client/server environment designed to allow users to engage in **Awalé** games against each other. This platform offers an interactive and engaging experience where players can connect, interact, and play this traditional African strategy game. The entire application has been developed in **C**.
 
-## Fonctionnalités
+## Features
 
-### Connexion Utilisateur
+### User Login
 
-- **Création de compte** : Les utilisateurs peuvent créer un compte pour accéder à la plateforme.
-- **Authentification** : Connexion sécurisée grâce à un identifiant et un mot de passe.
+- **Account Creation**: Users can create an account to access the platform.
+- **Authentication**: Secure login with a username and password.
 
-### Interface de Jeu
+### Game Interface
 
-- **Lobby** : Espace où les joueurs peuvent se rencontrer et initier des parties.
-- **Jeu en Temps Réel** : Interface de jeu interactive permettant de jouer des parties d'Awalé en temps réel.
+- **Lobby**: A space where players can meet and start new games.
+- **Real-Time Play**: An interactive game interface allowing players to play **Awalé** games in real time.
 
-### Interaction Sociale
+### Social Interaction
 
-- **Chat** : Fonctionnalité de messagerie pour permettre aux joueurs de communiquer entre eux.
-- **Amis** : Possibilité d'ajouter des amis et de suivre leurs activités sur la plateforme.
+- **Chat**: Messaging functionality to allow players to communicate with each other.
+- **Friends**: The ability to add friends and follow their activities on the platform.
 
-### Suivi des Performances
+### Performance Tracking
 
-- **Historique des Parties** : Suivi des parties jouées avec détails des résultats.
-- **Classements** : Classements des meilleurs joueurs pour encourager la compétition.
+- **Game History**: Tracking of played games with details of the results.
+- **Leaderboards**: Rankings of the best players to encourage competition.
 
-## Technologie
+## Technology
 
-L'application est conçue avec une architecture client/serveur, garantissant une expérience fluide et réactive pour les utilisateurs.
+The application is built with a client/server architecture in **C**, ensuring a smooth and responsive experience for users.
 
-- **Serveur** : Gère les connexions, les parties et les données des utilisateurs.
-- **Client** : Interface utilisateur permettant de se connecter, interagir et jouer.
+- **Server**: Manages connections, game sessions, and user data.
+- **Client**: User interface allowing users to connect, interact, and play.
